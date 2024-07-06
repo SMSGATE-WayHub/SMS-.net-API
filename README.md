@@ -22,7 +22,7 @@ This is a C# client for sending SMS using the SMS Gateway Hub API.
 
 **API Endpoint**
 
-The API endpoint is a GET request to: https://www.smsgatewayhub.com/api/mt/SendSMS
+The API endpoint is a POST request to: https://www.smsgatewayhub.com/api/mt/SendSMS
 
 **Query Parameters**
 
